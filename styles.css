@@ -1,0 +1,34 @@
+div.wolf-trading-card {
+  background-color: #44a5ff;
+  border: 3px solid #000;
+  width: 350px;
+  padding: 1em;
+}
+h3.animal-name {
+  background-color: #fff;
+  border: 4px solid #000;
+  border-radius: 10px;
+  padding: 1em;
+}
+img.animal-image {
+  background-color: #fff;
+  border: 4px solid #000;
+  border-radius: 10px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+}
+div.information {
+  background-color: #fff;
+  border: 4px solid #000;
+  border-radius: 10px;
+  padding: 1em;
+}
+p.interesting-fact {
+  font-style: italic;
+}
+span.label {
+  font-weight: bold;
+}
